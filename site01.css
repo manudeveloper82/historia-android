@@ -133,6 +133,9 @@ main a:hover {
     text-decoration: underline;
     color: var(--cor4);
 } 
+main img {
+    width: 100%;
+}
 main img.pequena {
     max-width: 350px;
     display: block;
